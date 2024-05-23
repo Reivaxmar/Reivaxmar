@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi there I'm Reivaxmar 👋
+<img src="https://i.redd.it/2l18j60jpxy71.jpg"><img/>
 
+## Languages & Tools
+<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"/>
+<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"/>
+<br>
+<br>
+
+## Currently doing...
+- [x] Minesweeper clone
+- [x] Head Hero
+- [ ] 3D Tic Tac Toe
+- [ ] Voice-assisted music player
+- [ ] Pokemon clone
 <!--
 **Reivaxmar/Reivaxmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
