@@ -1,5 +1,5 @@
 ## Hi there I'm Reivaxmar 👋
-<img src="https://i.redd.it/2l18j60jpxy71.jpg"><img/>
+<img src="hahacppaverageprogram.jpg"><img/>
 
 ## Languages & Tools
 <img align="left" alt="Canva" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
@@ -10,11 +10,14 @@
 <br>
 
 ## Currently doing...
-- [x] Minesweeper clone
-- [x] Head Hero
-- [ ] 3D Tic Tac Toe
-- [ ] Voice-assisted music player
-- [ ] Pokemon clone
+- [x] _Minesweeper clone_
+- [x] _Head Hero_
+- [ ] _3D Tic Tac Toe_
+- [ ] _Voice-assisted music player_
+- [ ] _Pokemon clone_
+
+- [ ] Protein tracker
+- [ ] Competitive programming
 <!--
 **Reivaxmar/Reivaxmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
