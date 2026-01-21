@@ -10,14 +10,16 @@
 <br>
 
 ## Currently doing...
-- [x] _Minesweeper clone_
-- [x] _Head Hero_
-- [ ] _3D Tic Tac Toe_
-- [ ] _Voice-assisted music player_
-- [ ] _Pokemon clone_
-
 - [ ] Protein tracker
 - [ ] Competitive programming
+- [ ] 3D CPU rasterizer
+
+## Was doing...
+- [x] Minesweeper clone
+- [x] Head Hero
+- [ ] 3D Tic Tac Toe
+- [ ] Voice-assisted music player
+- [ ] Pokemon clone
 <!--
 **Reivaxmar/Reivaxmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
