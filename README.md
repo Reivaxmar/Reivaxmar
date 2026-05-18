@@ -13,6 +13,7 @@
 - [ ] Protein tracker
 - [ ] Competitive programming
 - [ ] 3D CPU rasterizer
+- [ ] Trying out Godot
 
 ## Was doing...
 - [x] Minesweeper clone
